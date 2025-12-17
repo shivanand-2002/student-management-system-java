@@ -22,8 +22,4 @@ javac *.java
 java Main
 
 
-## Future Enhancements
-
-JDBC and MySQL integration
-Authentication system
 
