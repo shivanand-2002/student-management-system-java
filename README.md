@@ -23,6 +23,7 @@ java Main
 
 
 ## Future Enhancements
-```bash
+
 JDBC and MySQL integration
 Authentication system
+
