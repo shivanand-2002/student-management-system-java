@@ -20,3 +20,9 @@ Java collections, and exception handling.
 ```bash
 javac *.java
 java Main
+
+
+## Future Enhancements
+```bash
+JDBC and MySQL integration
+Authentication system
